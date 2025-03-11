@@ -9,3 +9,4 @@ hat_list.pop()# Paso 2: escribe aquí una línea de código que elimine el últi
 print("La longitud de la lista es:",len(hat_list))# Paso 3: escribe aquí una línea de código que imprima la longitud de la lista existente.
 
 print(hat_list)
+hola sofia<3
