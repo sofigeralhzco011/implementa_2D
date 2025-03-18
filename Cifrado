@@ -9,3 +9,6 @@ for c in texto:
 if c in abc:
 cifrad+=c 
 print("Texto cifrado: ", cifrad)
+
+print("El codigo pide que ingrese una cadena de texto que sera cifrada.")
+print("Tu texto:")
