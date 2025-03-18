@@ -1,0 +1,11 @@
+texto=intput("Tu texto: ")
+if texto== texto.upper():
+abc="ABCDEFGHIJKLMNOPQRSTUVWYZ"
+else:
+abc="abcdefghijklmnopqrstuvwyz"
+k=int(input("Valor de desplazamento "))
+cifrad=""
+for c in texto:
+if c in abc:
+cifrad+=c 
+print("Texto cifrado: ", cifrad)
